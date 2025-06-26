@@ -24,8 +24,6 @@ A full-stack real-time chat application built with **MERN**, **Socket.io**, **Ta
 ### 💬 Chat Interface
 ![Chat Screenshot](./screenshots/chat.png)
 
-### 👥 Online Users Indicator
-![Online Users Screenshot](./screenshots/online-users.png)
 
 > 📂 Make sure to place your screenshots in a `screenshots/` folder in the project root directory.
 
@@ -37,7 +35,6 @@ A full-stack real-time chat application built with **MERN**, **Socket.io**, **Ta
 - **Backend**: Node.js, Express.js, MongoDB
 - **Real-time Communication**: Socket.io
 - **Authentication**: JWT
-- **Deployment**: Render / Vercel + MongoDB Atlas
 
 ---
 
