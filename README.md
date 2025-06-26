@@ -13,7 +13,6 @@ A full-stack real-time chat application built with **MERN**, **Socket.io**, **Ta
 - 🌐 Global State Management using **Zustand**
 - ❗ Robust Client & Server Error Handling
 - 📱 Fully Responsive Design
-- 🚀 Deployed for Free using **Render/Vercel** and **MongoDB Atlas**
 
 ---
 
