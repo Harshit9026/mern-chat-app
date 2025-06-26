@@ -19,10 +19,10 @@ A full-stack real-time chat application built with **MERN**, **Socket.io**, **Ta
 ## 🖼️ Screenshots
 
 ### 🏠 Home/Login Page
-![Login Screenshot](./screenshots/login.png)
+![Login Screenshot](https://github.com/Harshit9026/mern-chat-app/blob/main/frontend/src/assets/mern-chat-app.2.png)
 
 ### 💬 Chat Interface
-![Chat Screenshot](./screenshots/chat.png)
+![Chat Screenshot](https://github.com/Harshit9026/mern-chat-app/blob/main/frontend/src/assets/mern-chat-app.1.png)
 
 
 > 📂 Make sure to place your screenshots in a `screenshots/` folder in the project root directory.
